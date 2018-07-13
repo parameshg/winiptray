@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinIpTray", "WinIpTray.csproj", "{2378FEC2-F71E-4686-9983-A0029BF593F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2378FEC2-F71E-4686-9983-A0029BF593F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2378FEC2-F71E-4686-9983-A0029BF593F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2378FEC2-F71E-4686-9983-A0029BF593F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2378FEC2-F71E-4686-9983-A0029BF593F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B850B0F-FA59-4FF0-8A44-F8E789FBDF78}
+	EndGlobalSection
+EndGlobal
